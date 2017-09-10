@@ -1,0 +1,42 @@
+.picture {
+    max-width: 100%
+    height: auto
+}
+
+
+body    {
+        background-color: gainsboro;
+        }
+ .Names {
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: #DCDCDC;
+            }
+ .Birth {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: #DCDCDC;
+        }
+ .Picture {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: #DCDCDC;
+            }    
+ 
+ .Biography {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: #DCDCDC;
+            }
+ .Filmography {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: #DCDCDC;
+
+                }

@@ -1,0 +1,73 @@
+.container {
+    display: flex;
+}
+
+.Home,
+.Hottest_actor,
+.Hottest_movie {
+    flex: 1;
+}
+body{
+background-color: gainsboro
+
+}
+
+ img {
+    background-color:#DCDCDC;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.container {
+    background-color: wheat;
+}
+
+
+.maintext
+{
+    align-items: left;
+
+    margin: 0 auto 0 auto;
+    background-color: grey;
+    display: flex;
+    flex: 1; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}   
+
+    .Recent_News h2
+        {
+        text-align: center;
+        }
+
+
+
+        .Text1
+            {
+                font-family: Arial, Helvetica, sans-serif;
+                border-width: 2px;
+                border-style: solid;
+                border-color: black;
+                align-items: left;
+                background-color: #DCDCDC;
+            }
+
+        .Text2
+            {   font-family: Arial, Helvetica, sans-serif;
+                border-width: 2px;
+                border-style: solid;
+                border-color: black;
+                align-items: left;
+                background-color: #DCDCDC;
+                border-color: black
+            }
+ .Line1 {
+     display: flex;
+     flex-direction: row
+        }
+ .Line1 h2 {
+    text-align: center;
+    flex: 1
+    }                
